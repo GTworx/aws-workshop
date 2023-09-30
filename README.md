@@ -1,2 +1,3 @@
 # aws-workshop
-GTWorx AWS Workshop material and code samples
+This #aws #redshift workshop is about streaming data into Redshift using Binance API:
+![Binance API to Redshift](1-AWS-Redshift-Binance.png)
