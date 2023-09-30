@@ -8,9 +8,7 @@ Let's do this together now:
 
 # Create an s3 bucket
 ![2-s3-bucket-1](2-s3-bucket-1.png)
-
 ![2-s3-bucket-2](2-s3-bucket-2.png)
-
 ![2-s3-bucket-2](2-s3-bucket-3.png)
 
 ![2-s3-bucket-2](2-s3-bucket-4.png)
@@ -25,4 +23,13 @@ Let's do this together now:
 ![3-CreateRole-4](3-CreateRole-4.png)
 
 ![3-CreateRole-5](3-CreateRole-5.png)
+
+# Create a Kinesis Data Stream
+![4-kinesis-1](4-kinesis-1.png)
+
+![4-kinesis-2](4-kinesis-2.png)
+
+![4-kinesis-3](4-kinesis-3.png)
+
+![4-kinesis-4](4-kinesis-4.png)
 
