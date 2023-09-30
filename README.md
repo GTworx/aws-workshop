@@ -42,7 +42,7 @@ Amazon Redshift is a popular cloud-based data warehousing service offered by Ama
 
 AWS Redshift's scalability, performance, and integration capabilities make it a versatile choice for organizations looking to harness the power of data analytics and make data-driven decisions across various industries and use cases.
 
-Let's do this together now:
+### Let's now dive into the demo workshow:
 # Create a VPC
 ![VPC Redshift](1-vpc-redshift.png)
 
