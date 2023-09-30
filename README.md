@@ -33,3 +33,22 @@ Let's do this together now:
 
 ![4-kinesis-4](4-kinesis-4.png)
 
+# Initiate an EC2 Instance
+![5-ec2-1](5-ec2-1.png)
+
+![5-ec2-2](5-ec2-2.png)
+![5-ec2-3](5-ec2-3.png)
+![5-ec2-4](5-ec2-4.png)
+
+![5-ec2-5](5-ec2-5.png)
+
+![5-ec2-6](5-ec2-6.png)
+
+![5-ec2-7](5-ec2-7.png)
+
+![5-ec2-8](5-ec2-8.png)
+
+![5-ec2-9](5-ec2-9.png)
+
+![5-ec2-10](5-ec2-10.png)
+
