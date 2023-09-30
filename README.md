@@ -15,3 +15,14 @@ Let's do this together now:
 
 ![2-s3-bucket-2](2-s3-bucket-4.png)
 
+# Create Role for EC2 to Kinesis Access
+![3-CreateRole-1](3-CreateRole-1.png)
+
+![3-CreateRole-2](3-CreateRole-2.png)
+
+![3-CreateRole-3](3-CreateRole-3.png)
+
+![3-CreateRole-4](3-CreateRole-4.png)
+
+![3-CreateRole-5](3-CreateRole-5.png)
+
