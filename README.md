@@ -33,7 +33,7 @@ Let's do this together now:
 
 ![4-kinesis-4](4-kinesis-4.png)
 
-# Initiate an EC2 Instance
+# Bring Up an EC2 Instance
 ![5-ec2-1](5-ec2-1.png)
 
 ![5-ec2-2](5-ec2-2.png)
@@ -51,4 +51,17 @@ Let's do this together now:
 ![5-ec2-9](5-ec2-9.png)
 
 ![5-ec2-10](5-ec2-10.png)
+
+# Bring Up a Redshift Cluster
+![6-Redshift-1](6-Redshift-1.png)
+
+![6-Redshift-2](6-Redshift-2.png)
+
+![6-Redshift-3](6-Redshift-3.png)
+
+![6-Redshift-4](6-Redshift-4.png)
+
+![6-Redshift-5](6-Redshift-5.png)
+
+![6-Redshift-6](6-Redshift-6.png)
 
